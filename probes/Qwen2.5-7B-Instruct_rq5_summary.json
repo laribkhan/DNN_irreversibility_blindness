@@ -1,0 +1,21 @@
+{
+  "model": "Llama-3.1-8B-Instruct",
+  "by_variant": {
+    "irreversible": {
+      "n": 60,
+      "mean_vocab_entropy": 1.4419260243574779,
+      "mean_class_entropy": 0.557382128893444,
+      "mean_top1_prob": 0.4706582287947337,
+      "mean_p_irreversible": 0.7449746105866658,
+      "mean_p_reversible": 0.250814674480448
+    },
+    "reversible": {
+      "n": 60,
+      "mean_vocab_entropy": 1.4324644446372985,
+      "mean_class_entropy": 0.5943547458537336,
+      "mean_top1_prob": 0.46381172686815264,
+      "mean_p_irreversible": 0.7084750341531897,
+      "mean_p_reversible": 0.2864097768485015
+    }
+  }
+}

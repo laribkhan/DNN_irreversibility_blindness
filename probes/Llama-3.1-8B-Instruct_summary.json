@@ -1,0 +1,14 @@
+{
+  "model": "Llama-3.1-8B-Instruct",
+  "best_layer": 31,
+  "best_layer_bal_acc": 0.9931473700489603,
+  "layer_0_bal_acc": 0.7179410636948563,
+  "majority_baseline_s1": 0.5,
+  "lexical_minimal_pairs_s1": 0.7602420643982644,
+  "lexical_all_data_s1": 0.7602420643982644,
+  "cross_env_sandbox_to_scienceworld": 0.8389830508474576,
+  "cross_env_scienceworld_to_sandbox": 0.5,
+  "stated_3class_balanced_acc": 0.3785842293906811,
+  "kappa_stated_vs_probe_s1_test": 0.15428571428571425,
+  "K_fraction_irreversible_correctly_stated": 0.13440860215053763
+}

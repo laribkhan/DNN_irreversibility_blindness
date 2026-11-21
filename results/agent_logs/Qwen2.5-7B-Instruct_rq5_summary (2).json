@@ -1,0 +1,21 @@
+{
+  "model": "Qwen2.5-7B-Instruct",
+  "by_variant": {
+    "irreversible": {
+      "n": 60,
+      "mean_vocab_entropy": 1.293632092078527,
+      "mean_class_entropy": 0.11014619629886506,
+      "mean_top1_prob": 0.5407418012619019,
+      "mean_p_irreversible": 0.9676783525402233,
+      "mean_p_reversible": 0.0322123074556264
+    },
+    "reversible": {
+      "n": 60,
+      "mean_vocab_entropy": 1.3371625294287999,
+      "mean_class_entropy": 0.15096496462803188,
+      "mean_top1_prob": 0.502994571129481,
+      "mean_p_irreversible": 0.9453438337041935,
+      "mean_p_reversible": 0.05459352803040653
+    }
+  }
+}
